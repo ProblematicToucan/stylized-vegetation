@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Gamal Abdul Aziz - [@Gamal_4ziz](https://twitter.com/si_gamalaziz) - gamal.aziz1000@gmai.com
+Gamal Abdul Aziz - [@si_gamalaziz](https://twitter.com/si_gamalaziz) - gamal.aziz1000@gmai.com
 
 Project Link: [ProblematicToucan/stylized-vegetation](https://github.com/ProblematicToucan/stylized-vegetation)
 
