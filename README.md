@@ -19,7 +19,7 @@
 
 ## About The Project
 
-[![Stylized Vegetation Screen Shot][product-screenshot]]
+![Stylized Vegetation Screen Shot][product-screenshot]
 
 Stylized vegetation build in Unity 2020.3.36f1 LTS URP project using custom lighting on shader graphs, works for mobile and desktop.
 
