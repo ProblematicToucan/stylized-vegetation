@@ -45,7 +45,7 @@ This list of tools used to build this project:
 
 ## Usage
 
-Use this project as a base for your own project and modify it to your needs or just export-import some stylized assets you need to your own project. See `Demo` scene for a usage example.
+Use this project as a base for your own project and modify it to your needs or just export-import some stylized assets you need to your own project. See `Demo` scene for an usage example.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
