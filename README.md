@@ -28,7 +28,7 @@ Here are some of the features included in this project:
 - LODs for model & shader (tree, grass, bush).
 - Mobile compatibility & performance.
 - Customizable shader graphs.
-- Custom lighting for toon/stylized shader provided by [Cyanilux](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting)
+- Custom lighting for toon/stylized shader provided by [Cyanilux](https://github.com/Cyanilux/URP_ShaderGraphCustomLighting).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
